@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://elmasca1.github.io/mi-sitio/'
 languageCode = 'es'
 title = 'Mi Sitio'
 theme = "tale"
@@ -17,4 +17,4 @@ theme = "tale"
 	title = "Posts"
 	url = "/post/"
 	weight = 0
-    
+

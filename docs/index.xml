@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi Sitio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Mi Sitio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 Oct 2021 21:52:48 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post Bienvenidos</title>
+      <link>http://example.org/post/segundo-post-bienvenidos/</link>
+      <pubDate>Tue, 12 Oct 2021 21:52:48 +0200</pubDate>
+      
+      <guid>http://example.org/post/segundo-post-bienvenidos/</guid>
+      <description>Este video explica bien
+https://www.youtube.com/watch?v=6H0jLIKe0uw
+ Hay Que Joderse  </description>
+    </item>
+    
+    <item>
+      <title>Primer Post</title>
+      <link>http://example.org/post/primer-post/</link>
+      <pubDate>Tue, 12 Oct 2021 21:50:16 +0200</pubDate>
+      
+      <guid>http://example.org/post/primer-post/</guid>
+      <description>Con esto se descarga con git el tema
+git submodule add https://github.com/EmielH/tale-hugo.git themes/tale
+ Hay Que Joderse  </description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Tue, 12 Oct 2021 21:45:32 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Hola peña
+Estamos que nos salimos
+ Bueno Bonito Barato  </description>
+    </item>
+    
+  </channel>
+</rss>
